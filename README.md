@@ -1,2 +1,2 @@
 # POS-tagger
-A Parts-Of-Speech Tagger created using the NLTK libraries
+This script is a simple parts-of-speech tagger. It was created using the NLTK libraries
